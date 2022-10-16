@@ -1,0 +1,12 @@
+#svg
+{
+	color : black;
+	background : Gainsboro;
+	border : 5px solid black;
+	padding : 100px;
+	
+	margin-left : 200px;
+	width : 800px;
+	height : 600px;
+	border-radius: 15px;
+}

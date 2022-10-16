@@ -1,0 +1,81 @@
+#header {
+
+background-color:rgba(120,0,0,0.4);
+
+border-radius:0px;
+
+text-align:center;
+
+height:100px;
+
+line-height:100px;
+
+}
+
+#nav {
+	
+width:100%;
+height:50px;
+background-color:rgba(120,0,0,0.5);
+	
+}
+
+#nav ul{
+	
+list-style-type:none;
+margin:0;
+padding:0;	
+width:100%;
+height:50px;
+
+}
+
+#nav li{
+	
+float:left;
+width:256px;
+height:50px;
+	
+}
+
+#nav a{
+
+width:380px;
+height:50px;
+display:block;
+text-decoration:none;
+text-align:center;
+color:#fff;
+transition:0.3s;	
+line-height:50px;
+font-size:20px;
+	
+}
+
+#nav a:hover{
+	
+font-size:27px;
+color:brown;	
+	
+}
+
+#svg
+{
+	color : black;
+	background : Gainsboro;
+	border : 5px solid black;
+	padding : 100px;
+	
+	margin-left : 200px;
+	width : 800px;
+	height : 600px;
+	border-radius: 15px;
+}
+
+#footer {
+
+background:#996633;
+
+clear:both;
+
+}
